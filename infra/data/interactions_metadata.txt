@@ -1,0 +1,77 @@
+# 사용자 그룹별 선호도 패턴
+
+## 한국 남성 사용자 (user1, user11, user21, user31, user41)
+- 전자제품 선호 (electronics)
+- 주요 브랜드: Samsung, Apple, Sony, Fitbit, Canon, LG, Logitech, Razer, HP, TP-Link
+- 선호 카테고리: electronics
+- 비선호 카테고리: clothing
+- 평균 상호작용 수: 20개/사용자
+
+## 미국 여성 사용자 (user2, user12, user22, user32, user42)
+- 의류 선호 (clothing)
+- 주요 브랜드: Nike, Levis, North Face, Zara, Uniqlo, H&M, Adidas, Under Armour, Calvin Klein, Burberry
+- 선호 카테고리: clothing
+- 비선호 카테고리: electronics
+- 평균 상호작용 수: 20개/사용자
+
+## 일본 남성 사용자 (user3, user13, user23, user33, user43)
+- 책 선호 (books)
+- 주요 브랜드: Penguin, McGraw-Hill, Time, Marvel, Random House, Faber, Oxford, Springer, Phaidon, Cambridge
+- 선호 카테고리: books
+- 비선호 카테고리: clothing
+- 평균 상호작용 수: 20개/사용자
+
+## 영국 여성 사용자 (user4, user14, user24, user34, user44)
+- 전자제품과 의류 혼합
+- 선호 카테고리: electronics, clothing
+- 비선호 카테고리: books
+- 평균 상호작용 수: 20개/사용자
+
+## 프랑스 남성 사용자 (user5, user15, user25, user35, user45)
+- 전자제품과 책 혼합
+- 선호 카테고리: electronics, books
+- 비선호 카테고리: clothing
+- 평균 상호작용 수: 20개/사용자
+
+## 독일 여성 사용자 (user6, user16, user26, user36, user46)
+- 의류와 책 혼합
+- 선호 카테고리: clothing, books
+- 비선호 카테고리: electronics
+- 평균 상호작용 수: 20개/사용자
+
+## 이탈리아 남성 사용자 (user7, user17, user27, user37, user47)
+- 전자제품 선호
+- 선호 카테고리: electronics
+- 비선호 카테고리: clothing
+- 평균 상호작용 수: 20개/사용자
+
+## 스페인 여성 사용자 (user8, user18, user28, user38, user48)
+- 의류 선호
+- 선호 카테고리: clothing
+- 비선호 카테고리: electronics
+- 평균 상호작용 수: 20개/사용자
+
+## 캐나다 남성 사용자 (user9, user19, user29, user39, user49)
+- 책 선호
+- 선호 카테고리: books
+- 비선호 카테고리: clothing
+- 평균 상호작용 수: 20개/사용자
+
+## 호주 여성 사용자 (user10, user20, user30, user40, user50)
+- 전자제품과 의류 혼합
+- 선호 카테고리: electronics, clothing
+- 비선호 카테고리: books
+- 평균 상호작용 수: 20개/사용자
+
+# 시간대별 분포
+- 기본 타임스탬프: 1646092800 (2022-03-01)
+- 추가 타임스탬프: 1646179200 ~ 1646956800 (3월 2일 ~ 3월 10일)
+- 브랜드/카테고리 선호도: 1647043200, 1647129600 (3월 11일, 3월 12일)
+- 추가 상호작용: 3월 13일 ~ 10월 14일 (약 7개월)
+
+# 상호작용 통계
+- 총 상호작용 수: 1,100개 이상
+- 사용자 수: 50명
+- 아이템 수: 50개
+- 이벤트 타입: LIKE, DISLIKE
+- 시간 범위: 2022-03-01 ~ 2022-10-14 
