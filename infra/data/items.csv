@@ -1,0 +1,51 @@
+ITEM_ID,CATEGORY,DESCRIPTION,BRAND
+item1,electronics,Smartphone,Samsung
+item2,clothing,T-shirt,Nike
+item3,books,Novel,Penguin
+item4,electronics,Laptop,Apple
+item5,clothing,Jeans,Levis
+item6,books,Textbook,McGraw-Hill
+item7,electronics,Headphones,Sony
+item8,clothing,Jacket,North Face
+item9,books,Magazine,Time
+item10,electronics,Tablet,Microsoft
+item11,electronics,Smartwatch,Fitbit
+item12,clothing,Dress,Zara
+item13,books,Comic,Marvel
+item14,electronics,Camera,Canon
+item15,clothing,Sweater,Uniqlo
+item16,books,Biography,Random House
+item17,electronics,Speaker,JBL
+item18,clothing,Skirt,H&M
+item19,books,Poetry,Faber
+item20,electronics,Monitor,LG
+item21,electronics,Keyboard,Logitech
+item22,clothing,Hoodie,Adidas
+item23,books,History,Oxford
+item24,electronics,Mouse,Razer
+item25,clothing,Shorts,Under Armour
+item26,books,Science,Springer
+item27,electronics,Printer,HP
+item28,clothing,Socks,Calvin Klein
+item29,books,Art,Phaidon
+item30,electronics,Router,TP-Link
+item31,electronics,TV,Panasonic
+item32,clothing,Scarf,Burberry
+item33,books,Philosophy,Cambridge
+item34,electronics,Console,PlayStation
+item35,clothing,Gloves,The North Face
+item36,books,Psychology,Wiley
+item37,electronics,Drone,DJI
+item38,clothing,Belt,Gucci
+item39,books,Geography,National Geographic
+item40,electronics,Projector,Epson
+item41,electronics,Microphone,Blue
+item42,clothing,Tie,Hugo Boss
+item43,books,Mathematics,Pearson
+item44,electronics,Scanner,Epson
+item45,clothing,Cap,New Era
+item46,books,Language,Oxford
+item47,electronics,Calculator,Casio
+item48,clothing,Shoes,New Balance
+item49,books,Music,Schirmer
+item50,electronics,Charger,Anker 
