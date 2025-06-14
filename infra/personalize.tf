@@ -58,15 +58,9 @@ resource "awscc_personalize_dataset" "interactions" {
 # resource "awscc_personalize_solution" "recommendation_solution" {
 #   name = "${var.project_name}-recommendation-solution-${var.environment}"
 #   dataset_group_arn = awscc_personalize_dataset_group.recommendation_group.dataset_group_arn
-#   recipe_arn = "arn:aws:personalize:::recipe/aws-user-personalization"  # 기본 사용자 개인화 레시피 사용
+#   recipe_arn = "arn:aws:personalize:::recipe/aws-user-personalization-v2"  # 기본 사용자 개인화 레시피 사용
+#   event_type = "LIKE" # personalize는 부정적 event를 지원하지 않음
 
-#   solution_config = {
-#     algorithm_hyper_parameters = {
-#       "hidden_dimension" = "32"
-#       "bptt" = "32"
-#       "recency_mask" = "true"
-#     }
-#   }
 #   depends_on = [
 #     awscc_personalize_dataset.users,
 #     awscc_personalize_dataset.items,
