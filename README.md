@@ -1,6 +1,22 @@
 # Recommendation System with AWS Personalize
 
+## 데이터 디렉토리 구조
+
+```
+recommendation-system/
+├── infra/
+│   ├── data/
+│   │   ├── data_download.ipynb    # MovieLens 데이터 다운로드 및 전처리
+│   │   ├── export_data.py         # 데이터를 CSV로 변환하는 스크립트
+│   │   └── csv/                  # 변환된 CSV 파일들
+│   └── schemas/
+│       ├── user-schema.json      # 사용자 스키마 정의
+│       ├── item-schema.json      # 아이템 스키마 정의
+│       └── interaction-schema.json # 인터랙션 스키마 정의
+```
+
 ## infra
+
 
 ### AWS Personalize 인프라 생성 순서 (Terraform, Scripts)
 
