@@ -12,12 +12,12 @@
       "type": "string"
     },
     {
-      "name": "GENRE",
-      "type": "string"
-    },
-    {
-      "name": "TAG",
-      "type": "string"
+      "name": "GENRES",
+      "type": [
+        "null",
+        "string"
+      ],
+      "categorical": true
     }
   ]
 } 
