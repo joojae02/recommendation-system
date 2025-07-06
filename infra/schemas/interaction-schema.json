@@ -12,12 +12,12 @@
       "type": "string"
     },
     {
-      "name": "TIMESTAMP",
-      "type": "long"
+      "name": "RATING",
+      "type": "float"
     },
     {
-      "name": "EVENT_TYPE",
-      "type": "string"
+      "name": "TIMESTAMP",
+      "type": "long"
     }
   ]
 } 

@@ -6,18 +6,6 @@
     {
       "name": "USER_ID",
       "type": "string"
-    },
-    {
-      "name": "AGE",
-      "type": "int"
-    },
-    {
-      "name": "GENDER",
-      "type": "string"
-    },
-    {
-      "name": "COUNTRY",
-      "type": "string"
     }
   ]
 } 

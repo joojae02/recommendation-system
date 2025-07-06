@@ -8,19 +8,16 @@
       "type": "string"
     },
     {
-      "name": "CATEGORY",
-      "type": "string",
-      "categorical": true
+      "name": "TITLE",
+      "type": "string"
     },
     {
-      "name": "DESCRIPTION",
-      "type": ["null", "string"],
-      "textual": true
+      "name": "GENRE",
+      "type": "string"
     },
     {
-      "name": "BRAND",
-      "type": "string",
-      "metadata": true
+      "name": "TAG",
+      "type": "string"
     }
   ]
 } 
