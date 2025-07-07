@@ -12,7 +12,7 @@
       "type": "string"
     },
     {
-      "name": "GENRES",
+      "name": "GENRE",
       "type": [
         "null",
         "string"

@@ -9,15 +9,18 @@
     },
     {
       "name": "GENDER",
-      "type": "string"
+      "type": "string",
+      "categorical": true
     },
     {
       "name": "AGE",
-      "type": "int"
+      "type": "int",
+      "categorical": true
     },
     {
       "name": "OCCUPATION",
-      "type": "string"
+      "type": "string",
+      "categorical": true
     }
   ]
 } 
