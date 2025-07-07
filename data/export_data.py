@@ -149,6 +149,7 @@ def load_movielens_data():
     users = users[users["user_id"].isin(valid_user_ids)]
     valid_movie_ids = sorted(ratings.movie_id.unique())[:1000]
     movies = movies[movies["movie_id"].isin(valid_movie_ids)]
+    ratings = ratings[ratings["movie_id"].isin(valid_movie_ids)]
     
     print(f"로딩 완료: {len(ratings)}개의 평점, {len(ratings.user_id.unique())}명의 사용자, {len(ratings.movie_id.unique())}개의 영화")
     
